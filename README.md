@@ -3,7 +3,7 @@
 
 # study_books
 
-<img src="https://github.com/KimJinSungDataScientist/NLP_study/blob/master/deep-learning-from-scratch-2-master/cover.png" width="500"> <img src="https://github.com/KimJinSungDataScientist/NLP_study/blob/master/deep-learning-from-scratch-2-master/cover2.jpg" width="500">
+<img src="https://github.com/KimJinSungDataScientist/NLP_study/blob/master/deep-learning-from-scratch-2-master/cover.png" width="300"> <img src="https://github.com/KimJinSungDataScientist/NLP_study/blob/master/deep-learning-from-scratch-2-master/cover2.jpg" width="300">
 
 # 일정
 
